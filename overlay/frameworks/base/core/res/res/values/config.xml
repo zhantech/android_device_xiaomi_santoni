@@ -463,4 +463,7 @@
     <!-- Aspect ratio of screen -->
     <item name="config_screenAspectRatio" format="float" type="dimen">1.7</item>
 
+    <!-- Disable Navbar by default -->
+    <bool name="config_defaultToNavigationBar">false</bool>
+
 </resources>
