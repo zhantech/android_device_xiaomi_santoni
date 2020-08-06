@@ -30,7 +30,6 @@ PRODUCT_SOONG_NAMESPACES += hardware/qcom-caf/msm8996/media
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 PRODUCT_PACKAGES += \
-    NoCutoutOverlay \
     NusantaraPapers
 
 PRODUCT_ENFORCE_RRO_TARGETS := \
