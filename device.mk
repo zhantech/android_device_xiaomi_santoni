@@ -508,6 +508,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     XiaomiParts
 
-# GCam Go
+# Google
 PRODUCT_PACKAGES += \
-    GCam
+    GCam \
+    GalleryGo \
+    RemovePackages
