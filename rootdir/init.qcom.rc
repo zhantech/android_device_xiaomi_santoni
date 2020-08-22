@@ -133,6 +133,9 @@ on boot
     chown system system /sys/kernel/boot_adsp/ssr
     chmod 0660 /sys/module/bluetooth_power/parameters/power
 
+    chown system system /sys/class/power_supply/battery/charging_enabled
+    chmod 0660 /sys/class/power_supply/battery/charging_enabled
+
     # This location is used by QCRIL to host UNIX domain
     # socket files used for internal IPC within QCRIL
     # modules
