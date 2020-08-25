@@ -3,7 +3,7 @@
     "remote": "github",
     "repository": "Komodo-OS-Devices/vendor_xiaomi_santoni",
     "target_path": "vendor/xiaomi",
-    "branch": "10"
+    "branch": "ten"
   },
   {
     "remote": "github",
