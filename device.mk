@@ -478,7 +478,6 @@ PRODUCT_PACKAGES += \
     libwifi-hal-qcom \
     libcld80211 \
     libqsap_sdk \
-    libqmiservices_shim \
     libQWiFiSoftApCfg \
     libwpa_client \
     hostapd \
