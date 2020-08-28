@@ -27,3 +27,6 @@ ro.surface_flinger.force_hwc_copy_for_virtual_displays=true
 
 # Time
 persist.timed.enable=true
+
+# Face Unlock
+ro.face.moto_unlock_service.cam_id=5
