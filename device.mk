@@ -512,4 +512,5 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     GCam \
     GalleryGo \
+    Retro \
     RemovePackages
