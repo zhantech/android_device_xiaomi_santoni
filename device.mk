@@ -514,6 +514,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     GCam \
     GalleryGo \
+    Retro \
     RemovePackages
 	
 # Reduce system image size by limiting java debug info.
