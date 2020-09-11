@@ -544,6 +544,7 @@ PRODUCT_PACKAGES += \
 # Bloatware
 PRODUCT_PACKAGES += \
     GalleryGo \
+    Retro \
     RemovePackages
 
 # Reduce system image size by limiting java debug info.
