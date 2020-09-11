@@ -517,6 +517,7 @@ PRODUCT_PACKAGES += \
 
 #Prebuilts
 PRODUCT_PACKAGES += \
+    Retro \
     RemovePackages
 
 # Do not spin up a separate process for the network stack, use an in-process APK.
