@@ -225,12 +225,6 @@ PRODUCT_PACKAGES += \
     libbacktrace-vendor \
     libunwind-vendor
 
-# FM
-PRODUCT_PACKAGES += \
-    FM2 \
-    libqcomfm_jni \
-    qcom.fmradio
-
 # fwk-detect
 PRODUCT_PACKAGES += \
     libqti_vndfwk_detect \
