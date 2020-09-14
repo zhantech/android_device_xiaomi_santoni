@@ -19,6 +19,9 @@ $(call inherit-product, device/xiaomi/santoni/full_santoni.mk)
 # Inherit some common NUSANTARA-OS stuff.
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 
+# Inherit from those products. Most specific first.
+$(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
+
 PRODUCT_DEVICE := santoni
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 4
