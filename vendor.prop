@@ -89,9 +89,6 @@ vendor.display.enable_default_color_mode=0
 sdm.debug.disable_skip_validate=1
 persist.hwc.enable_vds=1
 
-# Dolby
-vendor.audio.dolby.ds2.enabled=true
-
 # DRM
 drm.service.enabled=true
 
