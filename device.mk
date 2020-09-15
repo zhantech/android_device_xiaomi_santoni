@@ -514,4 +514,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     GalleryGo \
     RemovePackages
+	
+# Reduce system image size by limiting java debug info.
+PRODUCT_MINIMIZE_JAVA_DEBUG_INFO := true
 
