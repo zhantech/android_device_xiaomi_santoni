@@ -27,8 +27,7 @@ BOARD_VENDOR := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
 
 #Maintainer
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.xtended.maintainer=ZHANtech
+XTENDED_MAINTAINER := ZHANtech™
 
 # Boot animation
 TARGET_BOOT_ANIMATION_RES := 720
