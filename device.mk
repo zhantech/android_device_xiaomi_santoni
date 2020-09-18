@@ -502,6 +502,5 @@ PRODUCT_PACKAGES += \
 	
 # Bloatware
 PRODUCT_PACKAGES += \
-    GalleryGo \
     RemovePackages
 
