@@ -170,8 +170,7 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    camera.msm8937 \
-    Snap
+    camera.msm8937
 
 PRODUCT_PACKAGES += \
     camera.device@1.0-impl \
@@ -527,7 +526,7 @@ PRODUCT_PACKAGES += \
 	
 # Bloatware
 PRODUCT_PACKAGES += \
+    GCam \
     GalleryGo \
     Retro \
     RemovePackages
-
