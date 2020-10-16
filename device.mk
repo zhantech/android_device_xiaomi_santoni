@@ -429,6 +429,10 @@ PRODUCT_PACKAGES += \
     libprotobuf-cpp-full-vendorcompat \
     libprotobuf-cpp-lite-vendorcompat
 
+#vendor prop to disable advanced network scanning
+PRODUCT_PROPERTY_OVERRIDES += \
+    persist.vendor.radio.enableadvancedscan=false
+
 # Telephony
 PRODUCT_PACKAGES += \
     telephony-ext \
