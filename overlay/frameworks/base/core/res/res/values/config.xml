@@ -466,4 +466,7 @@
     <!-- Disable Navbar by default -->
     <bool name="config_defaultToNavigationBar">false</bool>
 
+    <!-- Enable Button Backlight -->
+    <bool name="config_deviceHasVariableButtonBrightness">true</bool>
+
 </resources>
