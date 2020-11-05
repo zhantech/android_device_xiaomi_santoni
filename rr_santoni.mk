@@ -32,6 +32,9 @@ PRODUCT_MANUFACTURER := Xiaomi
 # RR Face Unlock
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
+# RR Wallpapers
+BUILD_RR_WALLPAPERS := true
+
 # Buildtype
 RR_BUILDTYPE := Milestone
 
