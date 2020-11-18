@@ -541,10 +541,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     XiaomiAddon
 
-# XiaomiParts
-PRODUCT_PACKAGES += \
-    XiaomiParts
-
 # Bloatware
 PRODUCT_PACKAGES += \
     GalleryGo \
