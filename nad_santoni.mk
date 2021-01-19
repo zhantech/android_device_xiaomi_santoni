@@ -37,7 +37,7 @@ TARGET_SCREEN_WIDTH := 720
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Build fingerprint
-BUILD_FINGERPRINT := google/coral/coral:11/RQ1A.201205.008/6943376:user/release-keys
+BUILD_FINGERPRINT := google/coral/coral:11/RQ1A.210105.003/7005429:user/release-keys
 BUILD_DESCRIPTION := santoni-user 7.1.2 N2G47H V9.5.10.0.NAMMIFD release-keys
 
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
