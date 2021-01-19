@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository": "kdrag0n/proton-clang",
-    "target_path": "prebuilts/clang/host/linux-x86/clang-12",
-    "branch": "master"
+    "repository": "crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-6875598",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-r399163b",
+    "branch": "10.0"
   },
   {
     "remote": "github",
