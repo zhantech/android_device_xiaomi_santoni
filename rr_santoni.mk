@@ -19,9 +19,6 @@ $(call inherit-product, device/xiaomi/santoni/full_santoni.mk)
 # Inherit some common Ressurection Remix stuff.
 $(call inherit-product, vendor/rr/config/common_full_phone.mk)
 
-# Launcher
-TARGET_LAUNCHER := lawnchair
-
 PRODUCT_DEVICE := santoni
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 4
