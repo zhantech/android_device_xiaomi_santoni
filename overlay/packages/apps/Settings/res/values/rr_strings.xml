@@ -12,4 +12,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="rr_maintainer_summary">ZHANtech™</string>
+
+    <!-- Device Specification -->
+    <string name="cpu_message">Octa-core 1.4 GHz Cortex-A53</string>
+    <string name="camera_message">13MP and 5MP</string>
+    <string name="display_message">720 x 1280, 5.0 inches</string>
+    <string name="rom_message">Adreno 505</string>
+    <string name="soc_message">Snapdragon 435</string>
+
 </resources>
