@@ -21,7 +21,7 @@ $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 
 PRODUCT_DEVICE := santoni
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Redmi 4
+PRODUCT_MODEL := Redmi 4X
 PRODUCT_NAME := nad_santoni
 BOARD_VENDOR := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
